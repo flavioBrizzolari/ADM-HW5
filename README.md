@@ -3,6 +3,7 @@
 University of Sapienza- ADM-HW5
 
 Group Members [Group 24]:  
+
 Flavio Brizzolari Scrocco - 1608550 - brizzolariscrocco.1608550@studenti.uniroma1.it  
 Arianna Celli - 2067150 - celli.2067150@studenti.uniroma1.it  
 Antonio Trinchini - 2081991 - trinchini.2081991@studenti.uniroma1.it  
@@ -18,8 +19,8 @@ This repository was created to answer the questions in [Homework 5](https://gith
    
 2. `main.ipynb`
 
-  > A jupyter notebook for all our answers for this homework excluding the commandline.
+   > A jupyter notebook for all our answers for this homework excluding the commandline.
 
 3. `commandline.sh`:
     
-    >A .sh file to answer the command line questions of our assignment, a terminal based analysis.
+    > A .sh file to answer the command line questions of our assignment, a terminal based analysis.

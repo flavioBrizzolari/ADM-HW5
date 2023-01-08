@@ -13,14 +13,15 @@ This repository was created to answer the questions in [Homework 5](https://gith
 
 ## script description:
 
-1. `README.md`:
+1. `commandline.sh`:
+    
+    > A .sh file to answer the command line questions of our assignment, a terminal based analysis.
+
+2. `README.md`:
 
    > A markdown file which you are reading right now explaining how we worked and the descriptions of our Github repository.
-   
-2. `main.ipynb`
+    
+3. `main.ipynb`
 
    > A jupyter notebook for all our answers for this homework excluding the commandline.
 
-3. `commandline.sh`:
-    
-    > A .sh file to answer the command line questions of our assignment, a terminal based analysis.

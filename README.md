@@ -25,3 +25,6 @@ This repository was created to answer the questions in [Homework 5](https://gith
 
    > A jupyter notebook for all our answers for this homework excluding the commandline.
 
+4. `main.zip`
+
+   > A jupyter notebook for all our answers for this homework excluding the commandline in zipped version.
